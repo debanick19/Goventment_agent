@@ -1,0 +1,13 @@
+openai==1.14.2
+elevenlabs==1.1.1
+pyaudio==0.2.13
+SpeechRecognition==3.10.0
+requests==2.31.0
+python-dotenv==1.0.1
+soundfile==0.12.1
+numpy==1.26.4
+transformers==4.41.1
+torch==2.2.2
+librosa==0.10.1
+scikit-learn==1.4.2
+tqdm==4.66.4
